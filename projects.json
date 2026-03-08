@@ -5,9 +5,7 @@
       "url": "https://archive.org/download/minecraft-legacy-console-edition-source-code",
       "priority": 1,
       "tag": "source"
-    },{
-  "tags": ["source", "game", "mod", "launcher", "converter", "tool"]
-}
+    },
     {
       "name": "smartcmd / MinecraftConsoles",
       "url": "https://github.com/smartcmd/MinecraftConsoles",
