@@ -46,6 +46,12 @@
       "url": "https://github.com/ASAOddball1/Java-to-MLCE-Texture-Pack-Converter/tree/main",
       "priority": 7,
       "tag": "converter"
+    },
+    {
+      "name": "ARMS SLIMS AND BODY OVERLAY",
+      "url": "https://github.com/OliverLesen/MinecraftConsoles",
+      "priority": 8,
+      "tag": "mod"
     }
   ]
 }
